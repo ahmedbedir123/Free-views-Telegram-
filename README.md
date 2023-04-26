@@ -6,7 +6,7 @@
 ```
 git clone https://github.com/ahmedbedir123/Free-views-Telegram-
 ls
-cd telegram-views
+cd Free-views-Telegram-
 ls
 python main.py
 ```
